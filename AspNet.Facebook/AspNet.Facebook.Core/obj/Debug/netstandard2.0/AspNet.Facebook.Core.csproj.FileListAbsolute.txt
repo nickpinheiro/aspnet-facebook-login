@@ -1,0 +1,8 @@
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\bin\Debug\netstandard2.0\AspNet.Facebook.Core.deps.json
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\bin\Debug\netstandard2.0\AspNet.Facebook.Core.dll
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\bin\Debug\netstandard2.0\AspNet.Facebook.Core.pdb
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.AssemblyInfoInputs.cache
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.AssemblyInfo.cs
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.dll
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.pdb
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.csproj.CoreCompileInputs.cache
