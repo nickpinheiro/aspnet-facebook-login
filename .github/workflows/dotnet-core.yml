@@ -19,7 +19,8 @@ jobs:
         dotnet-version: 3.1.301
     - name: Install dependencies
       run: dotnet restore
+      working-directory: AspNet.Facebook/AspNet.Facebook
     - name: Build
-      run: dotnet build AspNet.Facebook.sln --configuration Release --no-restore
+      run: dotnet build --configuration Release --no-restore
     - name: Test
       run: dotnet test --no-restore --verbosity normal
