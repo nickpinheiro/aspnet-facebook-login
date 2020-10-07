@@ -1,3 +1,3 @@
-![.NET Core](https://github.com/nickpinheiro/aspnet-facebook-login/workflows/.NET%20Core/badge.svg)
+# Facebook Login with Asp.Net Core
 
-# aspnet-facebook-login
+![.NET Core](https://github.com/nickpinheiro/aspnet-facebook-login/workflows/.NET%20Core/badge.svg)
