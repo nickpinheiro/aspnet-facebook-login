@@ -1,8 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5Bg6tBzvM/XbcHIpszU/hSbMymOFm0BO0qMuqTY1Nt4YB4p7xtk+c2Aj59KOoD/bQ6sZyAWm38RaooDr+s4/Q==",
+  "dgSpecHash": "8IlAmw6eWMIXfPsr09DeADgRFShVBJo17jx+a2nfIetnORzAbg9cWYzD78y0+dx+X3FM3b8ij8lEECgtt0OfCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nichpin\\source\\repos\\aspnet-facebook-login\\AspNet.Facebook\\AspNet.Facebook.Web.Mvc\\AspNet.Facebook.Web.Mvc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.8\\microsoft.aspnetcore.mvc.razor.extensions.3.1.8.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.8\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.8.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.8\\microsoft.aspnetcore.razor.language.3.1.8.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.3\\microsoft.codeanalysis.analyzers.2.9.3.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.0\\microsoft.codeanalysis.common.3.3.0.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.0\\microsoft.codeanalysis.csharp.3.3.0.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.8\\microsoft.codeanalysis.razor.3.1.8.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\nichpin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -12,14 +12,12 @@ namespace AspNet.Facebook.Core.Services
 
         public static async Task<User> GetUserAsync(string accessToken)
         {
-            User user = new User();
-
             HttpResponseMessage response = await client.GetAsync(oauthBaseUri + "me?fields=id,name,first_name,last_name,email,picture&access_token=" + accessToken);
 
             if (response.IsSuccessStatusCode)
             {
                 string strJson = response.Content.ReadAsStringAsync().Result;
-                user = JsonConvert.DeserializeObject<User>(strJson);
+                User user = JsonConvert.DeserializeObject<User>(strJson);
                 user.access_token = accessToken;
 
                 return user;

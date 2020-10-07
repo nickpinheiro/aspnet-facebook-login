@@ -1,0 +1,19 @@
+﻿@model AspNet.Facebook.Core.Models.User;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Facebook User</h1>
+
+<div class="card">
+    <div class="card-body">
+        <img src="@Html.DisplayTextFor(modelItem => Model.picture.data.url)" class="rounded-circle" /><br />
+        Facebook Id: @Html.DisplayTextFor(modelItem => Model.id)<br />
+        Email: @Html.DisplayTextFor(modelItem => Model.email)<br />
+        First Name: @Html.DisplayTextFor(modelItem => Model.first_name)<br />
+        Last Name: @Html.DisplayTextFor(modelItem => Model.last_name)<br />
+        Full Name: @Html.DisplayTextFor(modelItem => Model.first_name)&nbsp;@Html.DisplayTextFor(modelItem => Model.last_name)<br />
+    </div>
+</div>
+

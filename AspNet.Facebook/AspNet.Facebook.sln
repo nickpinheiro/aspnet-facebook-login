@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Facebook.Web.Razor",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Facebook.Core", "AspNet.Facebook.Core\AspNet.Facebook.Core.csproj", "{1955E1E6-2DE5-45D5-B380-53CF13F41BB4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{A69153CB-B2AE-4E86-9B94-B159CE9765E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{7791F724-1354-464A-850E-5566AFB92EE8}"
+	ProjectSection(SolutionItems) = preProject
+		dotnet-core.yml = dotnet-core.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +37,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7791F724-1354-464A-850E-5566AFB92EE8} = {A69153CB-B2AE-4E86-9B94-B159CE9765E5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1ECDDC6A-03E7-4693-8814-DDEDA30836C9}
