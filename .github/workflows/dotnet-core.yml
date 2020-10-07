@@ -23,4 +23,4 @@ jobs:
     - name: Build
       run: dotnet build AspNet.Facebook/AspNet.Facebook.sln --configuration Release --no-restore
     - name: Test
-      run: dotnet test --no-restore --verbosity normal
+      run: dotnet test AspNet.Facebook/AspNet.Facebook.sln --no-restore --verbosity normal
