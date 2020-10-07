@@ -34,4 +34,3 @@ C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Faceb
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\AspNet.Facebook.Web.Razor.pdb
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\AspNet.Facebook.Web.Razor.genruntimeconfig.cache
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\AspNet.Facebook.Web.Razor.csproj.CopyComplete
-C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\AspNet.Facebook.Web.Razor.csprojAssemblyReference.cache

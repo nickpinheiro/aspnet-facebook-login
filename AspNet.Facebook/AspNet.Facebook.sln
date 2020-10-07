@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNet.Facebook.Web.Razor",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNet.Facebook.Core", "AspNet.Facebook.Core\AspNet.Facebook.Core.csproj", "{1955E1E6-2DE5-45D5-B380-53CF13F41BB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Facebook.Tests", "AspNet.Facebook.Tests\AspNet.Facebook.Tests.csproj", "{6D2839CA-1EE5-4E0A-9AF4-79633E5FF078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNet.Facebook.Tests", "AspNet.Facebook.Tests\AspNet.Facebook.Tests.csproj", "{6D2839CA-1EE5-4E0A-9AF4-79633E5FF078}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
