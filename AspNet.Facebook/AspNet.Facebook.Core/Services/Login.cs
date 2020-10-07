@@ -25,20 +25,5 @@ namespace AspNet.Facebook.Core.Services
 
             return null;
         }
-
-        public static async Task<string> GetExtendedAccessTokenAsync(string facebookAppId, string facebookAppSecret, string accessToken)
-        {
-            string extendedAccessToken;
-
-            HttpResponseMessage response = await client.GetAsync("grant_type = fb_exchange_token & client_id = " + facebookAppId + " & client_secret = " + facebookAppSecret + " & fb_exchange_token = " + accessToken);
-
-            if (response.IsSuccessStatusCode)
-            {
-                extendedAccessToken = await response.Content.ReadAsStringAsync();
-                return extendedAccessToken;
-            }
-
-            return null;
-        }
     }
 }
