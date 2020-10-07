@@ -1,4 +1,5 @@
-﻿using AspNet.Facebook.Core.Models;
+﻿using System.Threading.Tasks;
+using AspNet.Facebook.Core.Models;
 using AspNet.Facebook.Web.Mvc.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -17,7 +18,7 @@ namespace AspNet.Facebook.Web.Mvc.Controllers
             _appSettings = appSettings.Value;
         }
 
-        public async System.Threading.Tasks.Task<IActionResult> IndexAsync(string code)
+        public async Task<IActionResult> IndexAsync(string code)
         {
             Login.AccessToken accessToken = await Core.Services.Login.GetAccessTokenAsync(_appSettings.FacebookAppId, _appSettings.FacebookAppSecret, _appSettings.FacebookRedirectUri, code);
 

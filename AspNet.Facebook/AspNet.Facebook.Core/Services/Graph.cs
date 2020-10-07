@@ -22,8 +22,8 @@ namespace AspNet.Facebook.Core.Services
 
                 return user;
             }
-            else
-                return null;
+    
+            return null;
         }
     }
 }
