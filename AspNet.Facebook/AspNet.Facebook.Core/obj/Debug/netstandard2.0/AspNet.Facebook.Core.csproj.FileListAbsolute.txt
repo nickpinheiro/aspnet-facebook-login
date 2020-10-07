@@ -6,3 +6,4 @@ C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Faceb
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.dll
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.pdb
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.csproj.CoreCompileInputs.cache
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Core\obj\Debug\netstandard2.0\AspNet.Facebook.Core.csprojAssemblyReference.cache
