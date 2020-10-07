@@ -21,6 +21,6 @@ jobs:
       run: dotnet restore
       working-directory: AspNet.Facebook
     - name: Build
-      run: dotnet build ././AspNet.Facebook.sln --configuration Release --no-restore
+      run: dotnet build ../../AspNet.Facebook.sln --configuration Release --no-restore
     - name: Test
       run: dotnet test --no-restore --verbosity normal
