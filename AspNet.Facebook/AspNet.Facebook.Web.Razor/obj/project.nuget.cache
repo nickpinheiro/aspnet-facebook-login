@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "365RWRTfAvn8rDJ1JaNp7xEEK3+HFCZpHRkonvwBbIAasepFLmesw1/YlAvMnaA7BiuWK4Lyk+0X/PZZ6cqgGg==",
+  "dgSpecHash": "h1OVM06zJ3MjvNjZ2UsAkO8z/oc35Th941HgA/2EjfU26e28kPhb8sYGZ76azsl1QatZooDyqYpg4BZ0azzXFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nichpin\\source\\repos\\aspnet-facebook-login\\AspNet.Facebook\\AspNet.Facebook.Web.Razor\\AspNet.Facebook.Web.Razor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nichpin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

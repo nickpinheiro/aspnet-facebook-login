@@ -1,0 +1,15 @@
+﻿@page
+@model AspNet.Facebook.Web.Razor.Pages.UserModel
+@{
+}
+
+<div class="card">
+    <div class="card-body">
+        <img src="@Html.DisplayTextFor(modelItem => Model.FacebookUser.picture.data.url)" class="rounded-circle" /><br />
+        Facebook Id: @Html.DisplayTextFor(modelItem => Model.FacebookUser.id)<br />
+        Email: @Html.DisplayTextFor(modelItem => Model.FacebookUser.email)<br />
+        First Name: @Html.DisplayTextFor(modelItem => Model.FacebookUser.first_name)<br />
+        Last Name: @Html.DisplayTextFor(modelItem => Model.FacebookUser.last_name)<br />
+        Full Name: @Html.DisplayTextFor(modelItem => Model.FacebookUser.first_name)&nbsp;@Html.DisplayTextFor(modelItem => Model.FacebookUser.last_name)<br />
+    </div>
+</div>

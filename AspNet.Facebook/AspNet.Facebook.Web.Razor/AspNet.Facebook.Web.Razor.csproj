@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AspNet.Facebook.Core\AspNet.Facebook.Core.csproj" />
+  </ItemGroup>
+
 </Project>
