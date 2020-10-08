@@ -7,4 +7,10 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <div class="row" style="text-align: center; margin-top: 200px;">
+        <div class="col">
+            <a class="btn btn-primary btn-block btn-responsive" style="background-color: #3578E5; border-color: #3578E5; color: #ffffff; font-size:1.5rem; padding: 20px;" href="https://www.facebook.com/dialog/oauth?client_id=@Html.DisplayFor(model => model.AppSettings.FacebookAppId)&redirect_uri=@Html.DisplayFor(model => model.AppSettings.FacebookRedirectUri)&&response_type=code&scope=email"><i class="fab fa-facebook"></i>&nbsp;&nbsp;&nbsp;Login with Facebook</a>
+        </div>
+    </div>
 </div>

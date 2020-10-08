@@ -34,3 +34,8 @@ C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Faceb
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\AspNet.Facebook.Web.Razor.pdb
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\AspNet.Facebook.Web.Razor.genruntimeconfig.cache
 C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\AspNet.Facebook.Web.Razor.csproj.CopyComplete
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\AspNet.Facebook.Web.Razor.csprojAssemblyReference.cache
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\bin\Debug\netcoreapp3.1\AspNet.Facebook.Core.dll
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\bin\Debug\netcoreapp3.1\AspNet.Facebook.Core.pdb
+C:\Users\nichpin\source\repos\aspnet-facebook-login\AspNet.Facebook\AspNet.Facebook.Web.Razor\obj\Debug\netcoreapp3.1\Razor\Pages\User.cshtml.g.cs
