@@ -17,7 +17,7 @@ In this repository I have provided sample projects for implementing 'Facebook Lo
 
 ## Create the app in Facebook
 In order to configure your web app to support 'Login with Facebook' you must create a Facebook App in the Facebook Developer Portal
-https://developer.facebook.com
+https://developers.facebook.com
 
 - Navigate to the Facebook Developers app page and Log In. If you don't already have a Facebook account, use the Create New Account link on the login page to create one. Once you have a Facebook account, follow the instructions to register as a Facebook Developer.
 - From the My Apps menu select Create App to create a new App ID.
