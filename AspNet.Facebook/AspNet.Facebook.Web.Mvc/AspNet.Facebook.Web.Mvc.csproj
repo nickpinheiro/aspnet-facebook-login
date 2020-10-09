@@ -12,4 +12,8 @@
     <ProjectReference Include="..\AspNet.Facebook.Core\AspNet.Facebook.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Properties\PublishProfiles\" />
+  </ItemGroup>
+
 </Project>
