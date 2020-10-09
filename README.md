@@ -46,7 +46,7 @@ Subscribe for notifications, updates and new features:
 https://www.iamnickpinheiro.com/#subscribe
 
 ## Resources
-Facebook Login with ASP.NET Core (MVC and Razor Pages)
+Facebook Login with ASP.NET Core (MVC and Razor Pages):
 https://www.iamnickpinheiro.com/blog/facebook-login-with-aspnet-core
 
 ## License
